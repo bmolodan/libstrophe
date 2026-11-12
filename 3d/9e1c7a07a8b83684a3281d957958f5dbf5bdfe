@@ -1,0 +1,26 @@
+tests/test_scram.c
+  s_6aea392eaa9b1d::t_5befc5e71923ce 25-40,87-90,115-116,120-121,125-126,131-132,180-183
+  s_6aea392eaa9b1d::t_81bd12a41daf49 97-114,117-119,122-124,127-130,133-135,267-269
+src/sasl.c
+  s_6aea392eaa9b1d::t_ff297b1987bea3 457-463
+src/scram.c
+  s_6aea392eaa9b1d::t_ff297b1987bea3 166-172,180-186,190,206-207,210-216,222-224,227-228
+src/scram.h
+  s_6aea392eaa9b1d::t_ff297b1987bea3 40-51
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "3d9e1c7a07a8b83684a3281d957958f5dbf5bdfe",
+  "prompts": {},
+  "sessions": {
+    "s_6aea392eaa9b1d": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "69380160-499f-4439-9122-3149efaaf222",
+        "model": "claude-opus-5"
+      },
+      "human_author": "Bohdan <bohdan.molodan@gmail.com>"
+    }
+  }
+}
